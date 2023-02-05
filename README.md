@@ -1,4 +1,8 @@
 # My Portfolio
+
+## My Portfolio Project Website
+<a href="https://tennwilliams.github.io/TennilleWilliams"> Personal Website </a>
+
 ## My Eyes Repo
 <a href="https://github.com/TennWilliams/Eyes"> Eyes Exercise </a>
 
@@ -8,5 +12,3 @@
 ## My Bus Tracker Repo
 <a href="https://github.com/TennWilliams/Bus-Tracker"> Bus Tracker Exercise </a>
 
-## My Portfolio Project Website
-<a href="https://tennwilliams.github.io/TennilleWilliams"> Personal Website </a>
