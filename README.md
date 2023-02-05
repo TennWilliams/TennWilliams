@@ -1,3 +1,3 @@
 # TennWilliams.github.io
 ## My Eyes Repo
-<a href="https://tennwilliams.github.io/Eyes">Eyes Exercise </a>
+<a href="https://github.com/TennWilliams/Eyes">Eyes Exercise </a>
