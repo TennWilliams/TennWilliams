@@ -1,0 +1,97 @@
+body {
+  background-color: plum;
+}
+
+.port img {
+    margin-left: 60px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+
+.repo a {
+    margin-left: 10px;
+}
+
+.repo img {
+    margin-left: 5px;
+}
+
+.repo {
+  background: purple;
+  padding: 30px;
+  
+  border-radius: 20px;
+  max-width: 800px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 350px;
+}
+
+.port h2{
+  background: whitesmoke;
+  border-radius: 8px;
+  padding: 5px;
+  max-width: 650px;
+  margin-left: 80px;
+  margin-top: 50px;
+  
+}
+
+.port h2 a{
+    position: relative;
+    color: cornflowerblue;
+}
+.port h2 a:hover{
+    
+    cursor: pointer;
+    bottom: 2px;
+    font-weight: bolder;
+    color: goldenrod;
+  }
+.port h2 a:active{
+    top: 2px;
+  }
+
+h2 {
+  background: #fff;
+  box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
+  padding: 3px 10px;
+  font-size: 24px;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  color: purple;
+  justify-content: center;
+  position: relative;
+  max-width: 700px;
+  margin-left: 450px;
+}
+
+h1 {
+  color: whitesmoke;
+  font-weight: bolder;
+  text-align: center;
+  background: purple;
+  padding: 3px 10px;
+  font-size: 24px;
+  margin-bottom: 6px;
+  border-radius: 8px;
+  display:flex;
+  align-items: center;
+  
+  justify-content: center;
+  position: relative;
+
+  
+}
+
