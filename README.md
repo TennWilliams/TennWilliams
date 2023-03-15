@@ -14,3 +14,8 @@
 ## My Bus Tracker Repo
 <a href="https://github.com/TennWilliams/Bus-Tracker"> Bus Tracker Exercise </a>
 
+## My React ToDo List Repo
+<a href="https://https://github.com/TennWilliams/React-ToDo-List"> ToDo List Exercise </a>
+
+## My HTML Food Order Form Repo
+<a href="https://github.com/TennWilliams/HTML-Food-Order-Form"> Food Oder Form Exercise </a>
