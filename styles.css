@@ -12,7 +12,6 @@ body {
 h3 {
     display: flex;
     justify-content: center;
-    margin-top: 30px;
     
 }
 
@@ -42,7 +41,6 @@ h3 {
   max-width: 650px;
   margin-left: 80px;
   margin-top: 50px;
-  
 }
 
 .port h2 a{
@@ -53,7 +51,7 @@ h3 {
     
     cursor: pointer;
     bottom: 2px;
-    font-weight: bolder;
+    font-weight: lighter;
     color: goldenrod;
   }
 .port h2 a:active{
@@ -88,10 +86,7 @@ h1 {
   border-radius: 8px;
   display:flex;
   align-items: center;
-  
   justify-content: center;
   position: relative;
-
-  
 }
 
