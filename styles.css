@@ -45,6 +45,33 @@ h3 {
   font-size: 30px;
   font-family: cursive;
 }
+
+.links a{
+  position: relative;
+  
+}
+
+.links a:hover{
+  cursor: pointer;
+  bottom: 5px;
+  font-weight: lighter;
+  color: palevioletred;
+}
+
+.links a:active{
+  top: 2px;
+}
+
+.repo img{
+  position: relative;
+}
+
+.repo img:hover{
+  
+  width: max-content;
+  height: max-content;
+}
+
 .repo {
   background: purple;
   padding: 30px;
