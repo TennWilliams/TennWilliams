@@ -5,4 +5,4 @@ I added links to each project GitHub repository and links to my LinkedIn and Git
 I used CSS to stype the page using colors, hover and link effects.
  
 ## Future Improvements 
-I would like to use bootstrap themes to chnage the look and feel of my Portfolio Page
+I would like to use bootstrap themes to change the look and feel of my Portfolio Page
