@@ -17,6 +17,15 @@ h3 {
     text-align: center;
 }
 
+@media screen {
+  h3{
+    justify-content: flex-start;
+  }
+  .repo{
+    max-width: fit-content;
+  }
+}
+
 .repo a {
     margin-left: 10px;
 }
