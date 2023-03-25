@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Tennille ✨
 
 
-I enjoy problem solving, creative thinking, and challenging myself. 
+I enjoy the creativity of front end programming and am looking to venture into the field of user interface and user experience (ui/ux) design.
 
 I graduated from Pace University with a Masters in Computer Science, and a minor in Information Systems. I am now currently pursuing a certificate through MIT specializing in FullStack Javascript Programming with MERN. 
 
