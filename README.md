@@ -7,7 +7,7 @@ I graduated from Pace University with a Masters in Computer Science, and a minor
 
 📫 How to reach me: [Email](mailto:tennwilliams917@gmail.com) or through [Linkedin](https://www.linkedin.com/in/tennille-williams-bb7864212/)
 
-Check out my [Portfolio Page](https://tennwilliams.github.io) and my [Personal Website](https://tennwilliams.github.io/TennilleWilliams/)
+Check out my [Portfolio Page](https://tennwilliams.github.io/TennWilliams/) and my [Personal Website](https://tennwilliams.github.io/TennilleWilliams/)
 
 <!--
 **TennWilliams/TennWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-
