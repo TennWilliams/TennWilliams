@@ -1,11 +1,11 @@
-### Hi there 👋 , I'm Tennille ✨
+### Hi there 👋, I'm Tennille ✨
 
 
-I enjoy the creativity of front end programming and am looking to venture into the field of user interface and user experience (ui/ux) design.
+I am an aspiring engineer who enjoys the creativity of front end programming.  I am interested in learning more about user interface and user experience (ui/ux) design.
 
 I graduated from Pace University with a Masters in Computer Science, and a minor in Information Systems. I am now currently pursuing a certificate through MIT specializing in FullStack Javascript Programming with MERN. 
 
-📫 How to reach me: [Email](mailto:tennwilliams917@gmail.com) or through [Linkedin](https://www.linkedin.com/in/tennille-williams-bb7864212/)
+📫 How to reach me: [Email](mailto:tennwilliams917@gmail.com) or through [Linkedin](https://www.linkedin.com/in/tennille-williams-bk917/)
 
 Check out my [Portfolio Page](https://tennwilliams.github.io/TennWilliams/) and my [Personal Website](https://tennwilliams.github.io/TennilleWilliams/)
 
