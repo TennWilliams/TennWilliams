@@ -7,7 +7,8 @@ I graduated from Pace University with a Masters in Computer Science, and a minor
 
 📫 How to reach me: [Email](mailto:tennwilliams917@gmail.com) or through [Linkedin](https://www.linkedin.com/in/tennille-williams-bk917/)
 
-Check out my [Portfolio Page](https://tennwilliams.github.io/TennWilliams/) and my [Personal Website](https://tennwilliams.github.io/TennilleWilliams/)
+Check out my [Portfolio Page](https://tennwilliams.github.io/TennWilliams/) and my [Personal Website](https://tennwilliams.github.io/TennilleWilliams/).  View my [Resume](https://github.com/TennWilliams/TennWilliams/files/11174282/Tennille_Williams.pdf)
+
 
 <!--
 **TennWilliams/TennWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
