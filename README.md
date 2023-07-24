@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Tennille ✨
 
 
-I am an Associate Software Engineer who is passionate about design and software engineering.  I am currently studying UX/UI design with the goal of using my knowledge to create user-centered applications and software.
+I am an Associate Software Engineer with a passion for design and user experience.  I am currently studying UX/UI design with the goal of using my knowledge to create user-centered applications and software.
 
 I graduated from Pace University with a Masters in Computer Science, and a minor in Information Systems. I am now currently pursuing a certificate through MIT specializing in FullStack Javascript Programming with MERN. 
 
