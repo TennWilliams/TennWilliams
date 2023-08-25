@@ -3,7 +3,7 @@
 
 I am an Associate Software Engineer with a passion for design and user experience.  I am currently studying UX/UI design with the goal of using my knowledge to create user-centered applications and software.
 
-I graduated from Pace University with a Masters in Computer Science, and a minor in Information Systems. I am now currently pursuing a certificate through MIT specializing in FullStack Javascript Programming with MERN. 
+I graduated from Pace University with a Masters in Computer Science, and a minor in Information Systems. I also completed MIT professional certificate in coding: FullStack Javascript development with MERN. 
 
 📫 How to reach me: [Email](mailto:tennwilliams917@gmail.com) or through [Linkedin](https://www.linkedin.com/in/tennille-williams-bk917/)
 
