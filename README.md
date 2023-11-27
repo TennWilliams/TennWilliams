@@ -7,7 +7,7 @@ I graduated from Pace University with a Masters in Computer Science, and a minor
 
 📫 How to reach me: [Email](mailto:tennwilliams917@gmail.com) or through [Linkedin](https://www.linkedin.com/in/tennille-williams-bk917/)
 
-Check out my [Portfolio Page](https://tennwilliams.github.io/TennWilliams/) and my [Personal Website](https://tennwilliams.github.io/TennilleWilliams/).  View my [Resume](Tennille_Williams.pdf)
+Check out my [Portfolio Page](https://tennwilliams.github.io/Portfolio/index) and my [Personal Website](https://tennwilliams.github.io/TennilleWilliams/).  View my [Resume](Tennille_Williams.pdf)
 
 
 <!--
